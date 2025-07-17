@@ -14,13 +14,15 @@
   
   <!-- Languages -->
   </br>
-  <h3>Languages</h3>
+  <h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">  Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" 
+	height="60" 
+	width="60" alt="GitHub">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
@@ -83,7 +85,8 @@
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Tools -->
   </br>
   <h3>Tools</h3>
@@ -119,6 +122,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
+
+
+
 
 
 
