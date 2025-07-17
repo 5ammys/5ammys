@@ -5,7 +5,7 @@
 <br/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/5ammys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ammys&theme=great-gatsby&layout=compact)](https://github.com/5ammys)
 
 <br/>
 
