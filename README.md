@@ -59,11 +59,11 @@
     width="60px"
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+  <!--img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
     width="60px"
     alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;-->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
@@ -80,11 +80,11 @@
     width="60px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+  <!--img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
     width="60px"
     alt="Firebase">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;-->
   <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
     &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Tools -->
