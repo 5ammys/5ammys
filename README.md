@@ -50,7 +50,7 @@
 <br>
 <br/>
 
-<img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" />
+<img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="center"/>
 
 <br/>
 </br>
