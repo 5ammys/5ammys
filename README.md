@@ -4,12 +4,13 @@
 
 <img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ammys\&theme=great-gatsby\&layout=compact)](https://github.com/5ammys)
-
 <br/>
 
 <div align="center" width="100">
-  <h1>Data & BI Stack</h1>
+  <p>
+    <h1>Data & BI Stack</h1>
+  </p>
+  
 
   </br>
   <h3>Languages & Query</h3>
