@@ -5,7 +5,7 @@
 <img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="right"/>
 
 <br/>
-
+<p></p>
 <div align="center" width="100">
   <p>
     <h1>Data & BI Stack</h1>
@@ -36,7 +36,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="60px" alt="n8n"/>
 
   </br>
   <h3>Frontend Basics</h3>
