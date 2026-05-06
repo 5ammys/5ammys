@@ -1,11 +1,5 @@
 <h3 align="center">Hey there, I'm <a href="github.com">Samuel</a> - aka 5ammys 👋</h3>
 
-<br/>
-
-<img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="right"/>
-
-<br/>
-<p></p>
 <div align="center" width="100">
   <p>
     <h1>Data & BI Stack</h1>
@@ -53,6 +47,12 @@
 </div>
 
 <br/>
+<br>
+<br/>
 
+<img alt="Data Analysis" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" />
+
+<br/>
+</br>
 <h3 align="center">🚀 Focused on Data Analysis, BI & Automation</h3>
 
